@@ -1,3 +1,7 @@
+---
+title: kubernetes
+---
+
 Kubernetes is a software platform that I love for its potential to render your choice of cloud provider obsolete. The cloud provider within the cloud provider, in theory if not in practice.
 
 After you have mind-melded with the abstractions that Kubernetes provides it all makes sense. The demonic pact you have made is with one of the more powerful and "open" pieces of software. *Anything is possible on kubernetes.io*
